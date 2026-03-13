@@ -30,3 +30,41 @@ The benchmark currently evaluates:
 - Inference Latency
 
 ## Repository Structure
+
+src/ → evaluation pipeline
+notebooks/ → experiment notebook
+results/ → experiment outputs
+figures/ → plots used in report
+report/ → research draft
+
+## Installation
+pip install -r requirements.txt
+
+
+## Running the Benchmark
+python src/evaluate.py
+
+
+## Results
+
+Example results include:
+
+- WER comparison across model sizes
+- latency measurements
+
+## Research Report
+
+The draft report describing the experiments is available in:
+
+report/speech_transformer_benchmark.pdf
+
+
+## Future Work
+
+- noise robustness experiments
+- hardware-aware benchmarking
+- speech model comparison
+
+## Author
+
+Sara Ameli
