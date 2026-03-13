@@ -1,0 +1,7 @@
+openai-whisper
+datasets
+jiwer
+tqdm
+pandas
+matplotlib
+torch
