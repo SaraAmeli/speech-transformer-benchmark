@@ -52,6 +52,16 @@ Example results include:
 - WER comparison across model sizes
 - latency measurements
 
+## Example Results
+
+### Word Error Rate
+
+![WER](figures/wer_plot.png)
+
+### Latency
+
+![Latency](figures/latency_plot.png)
+
 ## Research Report
 
 The draft report describing the experiments is available in:
