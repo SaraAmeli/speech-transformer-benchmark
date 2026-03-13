@@ -75,6 +75,17 @@ report/speech_transformer_benchmark.pdf
 - hardware-aware benchmarking
 - speech model comparison
 
+## Citation
+
+If you use this work, please cite:
+
+@misc{speech_benchmark_2026,
+  title={Benchmarking Transformer-Based Speech Recognition Models},
+  author={Your Name},
+  year={2026},
+  note={Research Report},
+}
+
 ## Author
 
 Sara Ameli
