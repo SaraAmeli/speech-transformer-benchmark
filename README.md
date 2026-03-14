@@ -56,11 +56,11 @@ Example results include:
 
 ### Word Error Rate
 
-![WER](figures/wer_plot.png)
+![WER](figures/wer.png)
 
 ### Latency
 
-![Latency](figures/latency_plot.png)
+![Latency](figures/la.png)
 
 ## Research Report
 
